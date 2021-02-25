@@ -4,9 +4,8 @@
 * Overview of the project
   App with ability to create cards to keep track of bears.
 
-* Link to your wireframes/prototype
-  
 * Link to the deployed project
+  ejwbearwatcher.netlify.app
 
 * Link to your project board
   https://github.com/elliewalkersm/ASSIGNMENT-Bear-Watcher/projects/1
@@ -28,3 +27,4 @@
   https://github.com/elliewalkersm
 
 * Link to Loom video walkthrough of your app
+  https://www.loom.com/share/2cafcccc0cce47b8996b6f0c1415db74
